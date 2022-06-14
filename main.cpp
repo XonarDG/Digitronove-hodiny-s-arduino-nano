@@ -163,7 +163,7 @@ void setup() {
   //rtc.adjust(DateTime(2022, 1, 17, 11, 0, 0));
 
   //kód pro nastavení času RTC(nastaví se čas ve kterém se kód zkopiloval)
-  rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+  //rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
 
   
 
