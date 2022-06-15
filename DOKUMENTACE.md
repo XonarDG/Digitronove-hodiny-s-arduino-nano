@@ -99,7 +99,7 @@ Co se kódu týče tak ten jsem poslal již před tím, nicméně ho raději po�
 <H2>Cena a projektu</H2>
 Je důležité mít na paměti to, že digitrony, jakožto technologie, už nejsou používány minimálně takových 30 až 40 let. Byly nahrazeny modernějšími VFD displeji, a později 7 segmentovými LED zobrazovači. Z toho vyplývá že digitrony, a ani jejich drivery, už dnes jen těžko seženete na e-shopech jako GMe.
 <br>
-
+<br>
 <ol>
   <li>
     <b>Arduino Nano</b> - 190 kč
