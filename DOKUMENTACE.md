@@ -102,15 +102,15 @@ Je důležité mít na paměti to, že digitrony, jakožto technologie, už nejs
 
 <ol>
   <li>
-    Arduino Nano - 190 kč
+    <b>Arduino Nano</b> - 190 kč
   </li>
   <li>
-    RTC modul - 108 kč
+    <b>RTC modul</b> - 108 kč
   </li>
   <li>
-    MH74141 nebo K155ID1 - ceny na ebay se pohybují od 64 kč za kus až 100 kč za kus. Je důležité si vybrat důvěryhodného prodejce aby vám nepřišly padělky.
+    <b>MH74141 nebo K155ID1</b> - ceny na ebay se pohybují od 64 kč za kus až 100 kč za kus. Je důležité si vybrat důvěryhodného prodejce aby vám nepřišly padělky.
   </li>
   <li>
-    Digitrony - jsou asi nejdražší částí projektu. Digitronů existuje nespočet různých velikostí a druhů. Nicméně na ebay jsou zdaleka nejpopulárnější ruské digitrony. Alternativou za mé české Tesla ZM1020 jsou ruské IN-12 nebo IN-12B. - Ceny se pohybují od 100 kč a můžou se vyšplhat až do tisíců za kus. Pokud byste kupovali IN-12(B) tak vás to asi vyjde zhruba nějakých 850 až 1000 kč za 4 kusy s dopravou i daněmi.
+    <b>Digitrony</b> - jsou asi nejdražší částí projektu. Digitronů existuje nespočet různých velikostí a druhů. Nicméně na ebay jsou zdaleka nejpopulárnější ruské digitrony. Alternativou za mé české Tesla ZM1020 jsou ruské IN-12 nebo IN-12B. - Ceny se pohybují od 100 kč a můžou se vyšplhat až do tisíců za kus. Pokud byste kupovali IN-12(B) tak vás to asi vyjde zhruba nějakých 850 až 1000 kč za 4 kusy s dopravou i daněmi.
   </li>
 </ol>
